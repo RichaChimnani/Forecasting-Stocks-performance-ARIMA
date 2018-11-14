@@ -9,5 +9,5 @@ In this project we will generate forecast for following stocks :
 5. eBay Inc.
 
 
-Data can be downloaded from below link:
+Data can be downloaded from link:
 https://drive.google.com/file/d/1VxoJDgyiAdMRI7-Fp7RxazDTvQ9Lw54d/view
