@@ -1,4 +1,4 @@
-# Project-5-Application-of-Time-Series-Models
+# Time-Series-Models
 
 In this project we will generate forecast for following stocks :
 
