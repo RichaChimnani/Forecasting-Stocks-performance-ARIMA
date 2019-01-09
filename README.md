@@ -1,4 +1,4 @@
-# Time-Series-Models
+# Time-Series-Modeling using ARIMA
 
 In this project we will generate forecast for following stocks :
 
